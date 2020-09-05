@@ -1,0 +1,8 @@
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\csharpdefensivecoding\03\demos\APM\APM.Utilities\bin\Debug\netcoreapp3.1\APM.Utilities.deps.json
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\csharpdefensivecoding\03\demos\APM\APM.Utilities\bin\Debug\netcoreapp3.1\APM.Utilities.dll
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\csharpdefensivecoding\03\demos\APM\APM.Utilities\bin\Debug\netcoreapp3.1\APM.Utilities.pdb
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\csharpdefensivecoding\03\demos\APM\APM.Utilities\obj\Debug\netcoreapp3.1\APM.Utilities.csprojAssemblyReference.cache
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\csharpdefensivecoding\03\demos\APM\APM.Utilities\obj\Debug\netcoreapp3.1\APM.Utilities.AssemblyInfoInputs.cache
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\csharpdefensivecoding\03\demos\APM\APM.Utilities\obj\Debug\netcoreapp3.1\APM.Utilities.AssemblyInfo.cs
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\csharpdefensivecoding\03\demos\APM\APM.Utilities\obj\Debug\netcoreapp3.1\APM.Utilities.dll
+C:\Users\kklimczak\Downloads\Git\Git\pluralsight\csharpdefensivecoding\03\demos\APM\APM.Utilities\obj\Debug\netcoreapp3.1\APM.Utilities.pdb
